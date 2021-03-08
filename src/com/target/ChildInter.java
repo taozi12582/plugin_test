@@ -4,7 +4,7 @@ package com.target;
 
 public interface ChildInter {
 
-    int a = 1;
+    int a = 2;
 
     void childInterTest1(int param1);
 
