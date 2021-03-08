@@ -1,8 +1,13 @@
-package com.taozi;
+package com.target;
 
 /*some comments here*/
 
+import com.other.ChildClass;
+import com.other.MidInter;
+
 public interface ParentInter {
+
+    int a = 0;
 
     MidInter midInter = null;
 
@@ -10,6 +15,7 @@ public interface ParentInter {
 
     void parentInterTest2(int param2);
 
+    ChildClass childClass = null;
 }
 
 
