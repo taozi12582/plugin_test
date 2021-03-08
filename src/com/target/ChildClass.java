@@ -1,4 +1,4 @@
-package com.other;
+package com.target;
 
 public class ChildClass {
     /*test 31*/
