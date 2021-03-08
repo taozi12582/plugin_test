@@ -1,7 +1,7 @@
 package com.target;
 
 public class ChildClass {
-    /*test 31*/
+    /*test 3*/
     void test1() {
         return;
     }
