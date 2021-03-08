@@ -10,7 +10,7 @@ public interface ParentInterf {
 
     void parentInterTest1(int param1);
 
-    void parentInterTest3(int param2);
+    void parentInterTest4(int param2);
 
     ChildClass childClass = null;
 }
