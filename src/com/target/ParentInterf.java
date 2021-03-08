@@ -2,14 +2,11 @@ package com.target;
 
 /*some comments here*/
 
-import com.other.ChildClass;
-import com.other.MidInter;
+public interface ParentInterf {
 
-public interface ParentInter {
+    int a = 1;
 
-    int a = 10;
-
-    MidInter midInter = null;
+    MidInterf MID_INTERF = null;
 
     void parentInterTest1(int param1);
 
