@@ -7,7 +7,7 @@ import com.other.MidInter;
 
 public interface ParentInter {
 
-    int a = 0;
+    int a = 10;
 
     MidInter midInter = null;
 
