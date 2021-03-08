@@ -4,7 +4,7 @@ package com.other;
 
 public interface ChildInter {
 
-    int a = 2;
+    int a = 1;
 
     void childInterTest1(int param1);
 
