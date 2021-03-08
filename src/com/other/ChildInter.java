@@ -1,0 +1,13 @@
+package com.other;
+
+/*some comments here*/
+
+public interface ChildInter {
+
+    int a = 1;
+
+    void childInterTest1(int param1);
+
+    void childInterTest2(int param2);
+
+}
