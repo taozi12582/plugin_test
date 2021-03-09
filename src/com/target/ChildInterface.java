@@ -2,9 +2,9 @@ package com.target;
 
 /*some comments here*/
 
-public interface ChildInter {
+public interface ChildInterface {
 
-    int a = 2;
+    int a = 3;
 
     void childInterTest1(int param1);
 
